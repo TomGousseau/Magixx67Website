@@ -7,7 +7,7 @@ import Navigation from '@/components/Navigation'
 const copypastas = [
   {
     title: "The Classic",
-    text: "I saw magixx at a grocery store in Moscow yesterday. I told him how cool it was to meet him in person, but I didn't want to be a douche and bother him and ask him for photos or anything. He said, "Oh, like you're doing now?" I was taken aback, and all I could say was "Huh?" but he kept cutting me off and going "huh? huh? huh?" and one-tapping the air in front of my face. Then he 360 no-scoped the cashier and walked out.",
+    text: `I saw magixx at a grocery store in Moscow yesterday. I told him how cool it was to meet him in person, but I didn't want to be a douche and bother him and ask him for photos or anything. He said, "Oh, like you're doing now?" I was taken aback, and all I could say was "Huh?" but he kept cutting me off and going "huh? huh? huh?" and one-tapping the air in front of my face. Then he 360 no-scoped the cashier and walked out.`,
   },
   {
     title: "The Sigma Grindset",
