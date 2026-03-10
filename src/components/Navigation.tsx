@@ -72,6 +72,8 @@ export const pages = [
   { id: 65, slug: 'hall-of-shame', title: 'Hall of Shame', emoji: '😈', description: 'Victims gallery' },
   { id: 66, slug: 'final-boss', title: 'Final Boss', emoji: '👹', description: 'The ultimate test' },
   { id: 67, slug: 'ascension', title: 'Ascension', emoji: '🌟', description: 'Beyond sigma' },
+  { id: 68, slug: 'skibid-finance', title: 'SkibidFinance', emoji: '💸', description: 'Sigma wealth management' },
+  { id: 69, slug: 'overview-transaction', title: 'Transaction Overview', emoji: '📈', description: 'View TransactionStats' },
 ]
 
 export default function Navigation() {
